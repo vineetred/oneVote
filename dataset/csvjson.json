@@ -1,0 +1,2747 @@
+[
+  {
+    "": 1,
+    "Constituency_Name": "ANDAMAN & NICOBAR ISLANDS",
+    "V1": 13.4533932283932
+  },
+  {
+    "": 2,
+    "Constituency_Name": "ADILABAD",
+    "V1": 2.61404678124653
+  },
+  {
+    "": 3,
+    "Constituency_Name": "PEDDAPALLI",
+    "V1": 2.54238838745435
+  },
+  {
+    "": 4,
+    "Constituency_Name": "KARIMNAGAR",
+    "V1": 2.33671823111793
+  },
+  {
+    "": 5,
+    "Constituency_Name": "NIZAMABAD",
+    "V1": 2.42201774771036
+  },
+  {
+    "": 6,
+    "Constituency_Name": "ZAHIRABAD",
+    "V1": 2.50720999838102
+  },
+  {
+    "": 7,
+    "Constituency_Name": "MEDAK",
+    "V1": 2.35899375458121
+  },
+  {
+    "": 8,
+    "Constituency_Name": "MALKAJGIRI",
+    "V1": 1.13845790386239
+  },
+  {
+    "": 9,
+    "Constituency_Name": "SECUNDERABAD",
+    "V1": 1.91357001828656
+  },
+  {
+    "": 10,
+    "Constituency_Name": "HYDERABAD",
+    "V1": 1.98758897048459
+  },
+  {
+    "": 11,
+    "Constituency_Name": "CHELVELLA",
+    "V1": 1.65836797604207
+  },
+  {
+    "": 12,
+    "Constituency_Name": "MAHABUBNAGAR",
+    "V1": 2.5543721293495
+  },
+  {
+    "": 13,
+    "Constituency_Name": "NAGARKURNOOL",
+    "V1": 2.45298431941948
+  },
+  {
+    "": 14,
+    "Constituency_Name": "NALGONDA",
+    "V1": 2.4250162111376
+  },
+  {
+    "": 15,
+    "Constituency_Name": "BHONGIR",
+    "V1": 2.42843376400579
+  },
+  {
+    "": 16,
+    "Constituency_Name": "WARANGAL",
+    "V1": 2.35652090223686
+  },
+  {
+    "": 17,
+    "Constituency_Name": "WARANGAL(SC)",
+    "V1": 2.35652090223686
+  },
+  {
+    "": 18,
+    "Constituency_Name": "MAHABUBABAD",
+    "V1": 2.61215118994758
+  },
+  {
+    "": 19,
+    "Constituency_Name": "KHAMMAM",
+    "V1": 2.51606542398041
+  },
+  {
+    "": 20,
+    "Constituency_Name": "ARUKU",
+    "V1": 2.848142792021
+  },
+  {
+    "": 21,
+    "Constituency_Name": "SRIKAKULAM",
+    "V1": 2.56330151670126
+  },
+  {
+    "": 22,
+    "Constituency_Name": "VIZIANAGARAM",
+    "V1": 2.58154382305505
+  },
+  {
+    "": 23,
+    "Constituency_Name": "VISAKHAPATNAM",
+    "V1": 2.10318216192468
+  },
+  {
+    "": 24,
+    "Constituency_Name": "ANAKAPALLI",
+    "V1": 2.58571047340158
+  },
+  {
+    "": 25,
+    "Constituency_Name": "KAKINADA",
+    "V1": 2.55505291583527
+  },
+  {
+    "": 26,
+    "Constituency_Name": "AMALAPURAM",
+    "V1": 2.66875278470246
+  },
+  {
+    "": 27,
+    "Constituency_Name": "RAJAHMUNDRY",
+    "V1": 2.54968493100566
+  },
+  {
+    "": 28,
+    "Constituency_Name": "NARSAPURAM",
+    "V1": 2.73489013062365
+  },
+  {
+    "": 29,
+    "Constituency_Name": "ELURU",
+    "V1": 2.53809873340412
+  },
+  {
+    "": 30,
+    "Constituency_Name": "MACHILIPATNAM",
+    "V1": 2.64644481786826
+  },
+  {
+    "": 31,
+    "Constituency_Name": "VIJAYAWADA",
+    "V1": 2.31625176652415
+  },
+  {
+    "": 32,
+    "Constituency_Name": "GUNTUR",
+    "V1": 2.30519517282574
+  },
+  {
+    "": 33,
+    "Constituency_Name": "NARASARAOPET",
+    "V1": 2.39217063479752
+  },
+  {
+    "": 34,
+    "Constituency_Name": "BAPATLA",
+    "V1": 2.60150728949205
+  },
+  {
+    "": 35,
+    "Constituency_Name": "ONGOLE",
+    "V1": 2.46481867921089
+  },
+  {
+    "": 36,
+    "Constituency_Name": "NANDYAL",
+    "V1": 2.29799136938828
+  },
+  {
+    "": 37,
+    "Constituency_Name": "KURNOOL",
+    "V1": 2.4455581117715
+  },
+  {
+    "": 38,
+    "Constituency_Name": "ANANTAPUR",
+    "V1": 2.35787634020303
+  },
+  {
+    "": 39,
+    "Constituency_Name": "HINDUPUR",
+    "V1": 2.5052305709798
+  },
+  {
+    "": 40,
+    "Constituency_Name": "CUDDAPAH",
+    "V1": 2.33727587007559
+  },
+  {
+    "": 41,
+    "Constituency_Name": "NELLORE",
+    "V1": 2.25623876567669
+  },
+  {
+    "": 42,
+    "Constituency_Name": "TIRUPATHI",
+    "V1": 2.30205550766408
+  },
+  {
+    "": 43,
+    "Constituency_Name": "RAJAMPET",
+    "V1": 2.43569560509507
+  },
+  {
+    "": 44,
+    "Constituency_Name": "CHITTOOR",
+    "V1": 2.49599029101471
+  },
+  {
+    "": 45,
+    "Constituency_Name": "ARUNACHAL WEST",
+    "V1": 8.11348289450116
+  },
+  {
+    "": 46,
+    "Constituency_Name": "ARUNACHAL EAST",
+    "V1": 11.5886141526811
+  },
+  {
+    "": 47,
+    "Constituency_Name": "KARIMGANJ",
+    "V1": 3.107903365103
+  },
+  {
+    "": 48,
+    "Constituency_Name": "SILCHAR",
+    "V1": 3.41812059329828
+  },
+  {
+    "": 49,
+    "Constituency_Name": "AUTONOMOUS DISTRICT",
+    "V1": 5.16042607123022
+  },
+  {
+    "": 50,
+    "Constituency_Name": "DHUBRI",
+    "V1": 2.33768899588818
+  },
+  {
+    "": 51,
+    "Constituency_Name": "KOKRAJHAR",
+    "V1": 2.40708960379203
+  },
+  {
+    "": 52,
+    "Constituency_Name": "BARPETA",
+    "V1": 2.53379695536531
+  },
+  {
+    "": 53,
+    "Constituency_Name": "GAUHATI",
+    "V1": 1.88517013738965
+  },
+  {
+    "": 54,
+    "Constituency_Name": "MANGALDOI",
+    "V1": 2.39088433147981
+  },
+  {
+    "": 55,
+    "Constituency_Name": "TEZPUR",
+    "V1": 2.87702291579335
+  },
+  {
+    "": 56,
+    "Constituency_Name": "NOWGONG",
+    "V1": 2.37801114391478
+  },
+  {
+    "": 57,
+    "Constituency_Name": "KALIABOR",
+    "V1": 2.48679573900697
+  },
+  {
+    "": 58,
+    "Constituency_Name": "JORHAT",
+    "V1": 3.04653102264339
+  },
+  {
+    "": 59,
+    "Constituency_Name": "DIBRUGARH",
+    "V1": 3.22315208061869
+  },
+  {
+    "": 60,
+    "Constituency_Name": "LAKHIMPUR",
+    "V1": 2.53221762584901
+  },
+  {
+    "": 61,
+    "Constituency_Name": "LAKHIMPUR , DISTRICT, LAKHIMPUR",
+    "V1": 2.53221762584901
+  },
+  {
+    "": 62,
+    "Constituency_Name": "VALMIKI NAGAR",
+    "V1": 2.48785594927358
+  },
+  {
+    "": 63,
+    "Constituency_Name": "PASCHIM CHAMPARAN",
+    "V1": 2.56434994777617
+  },
+  {
+    "": 64,
+    "Constituency_Name": "PURVI CHAMPARAN",
+    "V1": 2.51783807294478
+  },
+  {
+    "": 65,
+    "Constituency_Name": "SHEOHAR",
+    "V1": 2.43895784159521
+  },
+  {
+    "": 66,
+    "Constituency_Name": "SITAMARHI",
+    "V1": 2.30095484578841
+  },
+  {
+    "": 67,
+    "Constituency_Name": "MADHUBANI",
+    "V1": 2.22615478747193
+  },
+  {
+    "": 68,
+    "Constituency_Name": "JHANJHARPUR",
+    "V1": 2.17201818503301
+  },
+  {
+    "": 69,
+    "Constituency_Name": "SUPAUL",
+    "V1": 2.37535814177269
+  },
+  {
+    "": 70,
+    "Constituency_Name": "ARARIA",
+    "V1": 2.28295403860062
+  },
+  {
+    "": 71,
+    "Constituency_Name": "KISHANGANJ",
+    "V1": 2.5182982508565
+  },
+  {
+    "": 72,
+    "Constituency_Name": "KATIHAR",
+    "V1": 2.50526174611712
+  },
+  {
+    "": 73,
+    "Constituency_Name": "PURNIA",
+    "V1": 2.28974249127716
+  },
+  {
+    "": 74,
+    "Constituency_Name": "MADHEPURA",
+    "V1": 2.09991348403221
+  },
+  {
+    "": 75,
+    "Constituency_Name": "DARBHANGA",
+    "V1": 2.42322920602229
+  },
+  {
+    "": 76,
+    "Constituency_Name": "MUZAFFARPUR",
+    "V1": 2.3358852828126
+  },
+  {
+    "": 77,
+    "Constituency_Name": "VAISHALI",
+    "V1": 2.31357812351364
+  },
+  {
+    "": 78,
+    "Constituency_Name": "GOPALGANJ (SC)",
+    "V1": 2.18982522760536
+  },
+  {
+    "": 79,
+    "Constituency_Name": "SIWAN",
+    "V1": 2.31721893264103
+  },
+  {
+    "": 80,
+    "Constituency_Name": "MAHARAJGANJ",
+    "V1": 2.07890628988871
+  },
+  {
+    "": 81,
+    "Constituency_Name": "SARAN",
+    "V1": 2.35504763637782
+  },
+  {
+    "": 82,
+    "Constituency_Name": "HAJIPUR (SC)",
+    "V1": 2.19684919556703
+  },
+  {
+    "": 83,
+    "Constituency_Name": "UJIARPUR",
+    "V1": 2.54085177781502
+  },
+  {
+    "": 84,
+    "Constituency_Name": "SAMASTIPUR (SC)",
+    "V1": 2.40872318207771
+  },
+  {
+    "": 85,
+    "Constituency_Name": "BEGUSARAI",
+    "V1": 2.0372664312591
+  },
+  {
+    "": 86,
+    "Constituency_Name": "KHAGARIA",
+    "V1": 2.40530815678086
+  },
+  {
+    "": 87,
+    "Constituency_Name": "BHAGALPUR",
+    "V1": 2.15019411524922
+  },
+  {
+    "": 88,
+    "Constituency_Name": "BANKA",
+    "V1": 2.33876018421949
+  },
+  {
+    "": 89,
+    "Constituency_Name": "MUNGER",
+    "V1": 2.10688355240514
+  },
+  {
+    "": 90,
+    "Constituency_Name": "NALANDA",
+    "V1": 1.85648937712574
+  },
+  {
+    "": 91,
+    "Constituency_Name": "PATNA SAHIB",
+    "V1": 1.86194366702308
+  },
+  {
+    "": 92,
+    "Constituency_Name": "PATALIPUTRA",
+    "V1": 2.08735687534057
+  },
+  {
+    "": 93,
+    "Constituency_Name": "ARRAH",
+    "V1": 1.98617495608422
+  },
+  {
+    "": 94,
+    "Constituency_Name": "BUXAR",
+    "V1": 2.20873410939792
+  },
+  {
+    "": 95,
+    "Constituency_Name": "SASARAM (SC)",
+    "V1": 2.25396533161001
+  },
+  {
+    "": 96,
+    "Constituency_Name": "KARAKAT",
+    "V1": 2.29273838732903
+  },
+  {
+    "": 97,
+    "Constituency_Name": "JAHANABAD",
+    "V1": 2.54615575944004
+  },
+  {
+    "": 98,
+    "Constituency_Name": "AURANGABAD",
+    "V1": 2.2799908141148
+  },
+  {
+    "": 99,
+    "Constituency_Name": "GAYA (SC)",
+    "V1": 2.41342345528301
+  },
+  {
+    "": 100,
+    "Constituency_Name": "NAWADA",
+    "V1": 2.13807108994952
+  },
+  {
+    "": 101,
+    "Constituency_Name": "JAMUI (SC)",
+    "V1": 2.33652839317677
+  },
+  {
+    "": 102,
+    "Constituency_Name": "CHANDIGARH",
+    "V1": 5.89031784062131
+  },
+  {
+    "": 103,
+    "Constituency_Name": "SARGUJA",
+    "V1": 2.37935236654494
+  },
+  {
+    "": 104,
+    "Constituency_Name": "RAIGARH",
+    "V1": 2.22736299662743
+  },
+  {
+    "": 105,
+    "Constituency_Name": "JANJGIR-CHAMPA",
+    "V1": 2.07763096111056
+  },
+  {
+    "": 106,
+    "Constituency_Name": "KORBA",
+    "V1": 2.54529197621176
+  },
+  {
+    "": 107,
+    "Constituency_Name": "BILASPUR",
+    "V1": 2.09561949284913
+  },
+  {
+    "": 108,
+    "Constituency_Name": "RAJNANDGAON",
+    "V1": 2.27715689533503
+  },
+  {
+    "": 109,
+    "Constituency_Name": "DURG",
+    "V1": 1.94941261655949
+  },
+  {
+    "": 110,
+    "Constituency_Name": "RAIPUR",
+    "V1": 1.90279974375939
+  },
+  {
+    "": 111,
+    "Constituency_Name": "MAHASAMUND",
+    "V1": 2.39009429637833
+  },
+  {
+    "": 112,
+    "Constituency_Name": "BASTAR",
+    "V1": 2.79165970126718
+  },
+  {
+    "": 113,
+    "Constituency_Name": "KANKER",
+    "V1": 2.50198049538276
+  },
+  {
+    "": 114,
+    "Constituency_Name": "DADAR & NAGAR HAVELI",
+    "V1": 18.4326617394976
+  },
+  {
+    "": 115,
+    "Constituency_Name": "DAMAN & DIU",
+    "V1": 32.4054655852343
+  },
+  {
+    "": 116,
+    "Constituency_Name": "CHANDNI CHOWK",
+    "V1": 2.50395997871796
+  },
+  {
+    "": 117,
+    "Constituency_Name": "NORTH EAST DELHI",
+    "V1": 1.85104520183807
+  },
+  {
+    "": 118,
+    "Constituency_Name": "EAST DELHI",
+    "V1": 1.98067860457439
+  },
+  {
+    "": 119,
+    "Constituency_Name": "NEW DELHI",
+    "V1": 2.43184464351504
+  },
+  {
+    "": 120,
+    "Constituency_Name": "NORTH WEST  DELHI",
+    "V1": 1.65143097501165
+  },
+  {
+    "": 121,
+    "Constituency_Name": "WEST DELHI",
+    "V1": 1.77688939448174
+  },
+  {
+    "": 122,
+    "Constituency_Name": "SOUTH DELHI",
+    "V1": 2.06749972043899
+  },
+  {
+    "": 123,
+    "Constituency_Name": "NORTH GOA",
+    "V1": 7.03049621586176
+  },
+  {
+    "": 124,
+    "Constituency_Name": "SOUTH GOA",
+    "V1": 6.64508853257441
+  },
+  {
+    "": 125,
+    "Constituency_Name": "KACHCHH",
+    "V1": 2.36266040415131
+  },
+  {
+    "": 126,
+    "Constituency_Name": "BANASKANTHA",
+    "V1": 2.39082912243825
+  },
+  {
+    "": 127,
+    "Constituency_Name": "PATAN",
+    "V1": 2.22504898255662
+  },
+  {
+    "": 128,
+    "Constituency_Name": "MAHESANA",
+    "V1": 2.41874252028575
+  },
+  {
+    "": 129,
+    "Constituency_Name": "SABARKANTHA",
+    "V1": 2.24267625507476
+  },
+  {
+    "": 130,
+    "Constituency_Name": "GANDHINAGAR",
+    "V1": 2.08988726461558
+  },
+  {
+    "": 131,
+    "Constituency_Name": "AHMEDABAD EAST",
+    "V1": 2.26228842974794
+  },
+  {
+    "": 132,
+    "Constituency_Name": "AHMEDABAD WEST",
+    "V1": 2.36170881126173
+  },
+  {
+    "": 133,
+    "Constituency_Name": "SURENDRANAGAR",
+    "V1": 2.18742081191218
+  },
+  {
+    "": 134,
+    "Constituency_Name": "RAJKOT",
+    "V1": 2.18866267604911
+  },
+  {
+    "": 135,
+    "Constituency_Name": "PORBANDAR",
+    "V1": 2.35430863494114
+  },
+  {
+    "": 136,
+    "Constituency_Name": "JAMNAGAR",
+    "V1": 2.46357868917545
+  },
+  {
+    "": 137,
+    "Constituency_Name": "JUNAGADH",
+    "V1": 2.43938142483927
+  },
+  {
+    "": 138,
+    "Constituency_Name": "AMRELI",
+    "V1": 2.438161968827
+  },
+  {
+    "": 139,
+    "Constituency_Name": "BHAVNAGAR",
+    "V1": 2.27264694132632
+  },
+  {
+    "": 140,
+    "Constituency_Name": "ANAND",
+    "V1": 2.42094011526804
+  },
+  {
+    "": 141,
+    "Constituency_Name": "KHEDA",
+    "V1": 2.26562074079261
+  },
+  {
+    "": 142,
+    "Constituency_Name": "PANCHMAHAL",
+    "V1": 2.2983965542502
+  },
+  {
+    "": 143,
+    "Constituency_Name": "DOHAD",
+    "V1": 2.56686204857041
+  },
+  {
+    "": 144,
+    "Constituency_Name": "VADODARA",
+    "V1": 2.21190230730119
+  },
+  {
+    "": 145,
+    "Constituency_Name": "CHHOTA UDAIPUR",
+    "V1": 2.358780320314
+  },
+  {
+    "": 146,
+    "Constituency_Name": "BHARUCH",
+    "V1": 2.55639033034507
+  },
+  {
+    "": 147,
+    "Constituency_Name": "BARDOLI",
+    "V1": 2.24508551482988
+  },
+  {
+    "": 148,
+    "Constituency_Name": "SURAT",
+    "V1": 2.44180590107731
+  },
+  {
+    "": 149,
+    "Constituency_Name": "NAVSARI",
+    "V1": 2.05358768053441
+  },
+  {
+    "": 150,
+    "Constituency_Name": "VALSAD",
+    "V1": 2.39660040170337
+  },
+  {
+    "": 151,
+    "Constituency_Name": "AMBALA",
+    "V1": 2.14119275075277
+  },
+  {
+    "": 152,
+    "Constituency_Name": "KURUKSHETRA",
+    "V1": 2.41835512349687
+  },
+  {
+    "": 153,
+    "Constituency_Name": "SIRSA",
+    "V1": 2.18228341454102
+  },
+  {
+    "": 154,
+    "Constituency_Name": "HISSAR",
+    "V1": 2.38784374864095
+  },
+  {
+    "": 155,
+    "Constituency_Name": "KARNAL",
+    "V1": 2.15149368796091
+  },
+  {
+    "": 156,
+    "Constituency_Name": "SONIPAT",
+    "V1": 2.55703971526713
+  },
+  {
+    "": 157,
+    "Constituency_Name": "ROHTAK",
+    "V1": 2.3118261597389
+  },
+  {
+    "": 158,
+    "Constituency_Name": "BHIWANI-MAHENDRAGARH",
+    "V1": 2.45863118015187
+  },
+  {
+    "": 159,
+    "Constituency_Name": "GURGAON",
+    "V1": 1.96422256743704
+  },
+  {
+    "": 160,
+    "Constituency_Name": "FARIDABAD",
+    "V1": 2.08222589453168
+  },
+  {
+    "": 161,
+    "Constituency_Name": "KANGRA",
+    "V1": 2.87923337102068
+  },
+  {
+    "": 162,
+    "Constituency_Name": "MANDI",
+    "V1": 3.15001808054186
+  },
+  {
+    "": 163,
+    "Constituency_Name": "HAMIRPUR",
+    "V1": 2.08505212621685
+  },
+  {
+    "": 164,
+    "Constituency_Name": "SHIMLA",
+    "V1": 3.14194750481852
+  },
+  {
+    "": 165,
+    "Constituency_Name": "BARAMULLA",
+    "V1": 3.04325618971318
+  },
+  {
+    "": 166,
+    "Constituency_Name": "SRINAGAR",
+    "V1": 3.00175277287675
+  },
+  {
+    "": 167,
+    "Constituency_Name": "ANANTNAG",
+    "V1": 2.7850943362874
+  },
+  {
+    "": 168,
+    "Constituency_Name": "LADAKH",
+    "V1": 21.7302759005295
+  },
+  {
+    "": 169,
+    "Constituency_Name": "UDHAMPUR",
+    "V1": 2.46673137872072
+  },
+  {
+    "": 170,
+    "Constituency_Name": "JAMMU",
+    "V1": 1.96076952420116
+  },
+  {
+    "": 171,
+    "Constituency_Name": "RAJMAHAL",
+    "V1": 2.67742471741092
+  },
+  {
+    "": 172,
+    "Constituency_Name": "DUMKA",
+    "V1": 2.84655657402032
+  },
+  {
+    "": 173,
+    "Constituency_Name": "GODDA",
+    "V1": 2.27801721428338
+  },
+  {
+    "": 174,
+    "Constituency_Name": "CHATRA",
+    "V1": 2.76086462963273
+  },
+  {
+    "": 175,
+    "Constituency_Name": "KODARMA",
+    "V1": 2.21011621418051
+  },
+  {
+    "": 176,
+    "Constituency_Name": "GIRIDIH",
+    "V1": 2.39726152453885
+  },
+  {
+    "": 177,
+    "Constituency_Name": "DHANBAD",
+    "V1": 1.91733636822025
+  },
+  {
+    "": 178,
+    "Constituency_Name": "RANCHI",
+    "V1": 2.19829913877142
+  },
+  {
+    "": 179,
+    "Constituency_Name": "JAMSHEDPUR",
+    "V1": 2.29113371036218
+  },
+  {
+    "": 180,
+    "Constituency_Name": "SINGHBHUM",
+    "V1": 3.14394013006753
+  },
+  {
+    "": 181,
+    "Constituency_Name": "KHUNTI",
+    "V1": 3.25924040523233
+  },
+  {
+    "": 182,
+    "Constituency_Name": "LOHARDAGA",
+    "V1": 3.23801584067823
+  },
+  {
+    "": 183,
+    "Constituency_Name": "PALAMAU",
+    "V1": 2.20164074760155
+  },
+  {
+    "": 184,
+    "Constituency_Name": "HAZARIBAGH",
+    "V1": 2.38577334071576
+  },
+  {
+    "": 185,
+    "Constituency_Name": "CHIKKODI",
+    "V1": 2.51268265421167
+  },
+  {
+    "": 186,
+    "Constituency_Name": "BELGAUM",
+    "V1": 2.2922496433982
+  },
+  {
+    "": 187,
+    "Constituency_Name": "BAGALKOT",
+    "V1": 2.31016815278016
+  },
+  {
+    "": 188,
+    "Constituency_Name": "BIJAPUR",
+    "V1": 2.2332847498051
+  },
+  {
+    "": 189,
+    "Constituency_Name": "GULBARGA",
+    "V1": 2.10442917786979
+  },
+  {
+    "": 190,
+    "Constituency_Name": "RAICHUR",
+    "V1": 2.18090570207378
+  },
+  {
+    "": 191,
+    "Constituency_Name": "BIDAR",
+    "V1": 2.26351780991679
+  },
+  {
+    "": 192,
+    "Constituency_Name": "KOPPAL",
+    "V1": 2.36062419183053
+  },
+  {
+    "": 193,
+    "Constituency_Name": "BELLARY",
+    "V1": 2.43544351437721
+  },
+  {
+    "": 194,
+    "Constituency_Name": "HAVERI",
+    "V1": 2.324816888415
+  },
+  {
+    "": 195,
+    "Constituency_Name": "DHARWAD",
+    "V1": 2.29627310891089
+  },
+  {
+    "": 196,
+    "Constituency_Name": "UTTARA KANNADA",
+    "V1": 2.49814455959228
+  },
+  {
+    "": 197,
+    "Constituency_Name": "DAVANAGERE",
+    "V1": 2.37983676492994
+  },
+  {
+    "": 198,
+    "Constituency_Name": "SHIMOGA",
+    "V1": 2.31961737066513
+  },
+  {
+    "": 199,
+    "Constituency_Name": "UDUPI CHIKMAGALUR",
+    "V1": 2.61213989248133
+  },
+  {
+    "": 200,
+    "Constituency_Name": "HASSAN",
+    "V1": 2.32074190866905
+  },
+  {
+    "": 201,
+    "Constituency_Name": "DAKSHINA KANNADA",
+    "V1": 2.31520700937057
+  },
+  {
+    "": 202,
+    "Constituency_Name": "CHITRADURGA",
+    "V1": 2.1813376095618
+  },
+  {
+    "": 203,
+    "Constituency_Name": "TUMKUR",
+    "V1": 2.38640964413988
+  },
+  {
+    "": 204,
+    "Constituency_Name": "MANDYA",
+    "V1": 2.1709030697398
+  },
+  {
+    "": 205,
+    "Constituency_Name": "MYSORE",
+    "V1": 2.10303203349246
+  },
+  {
+    "": 206,
+    "Constituency_Name": "CHAMARAJANAGAR",
+    "V1": 2.32925199626426
+  },
+  {
+    "": 207,
+    "Constituency_Name": "BANGALORE RURAL",
+    "V1": 1.65440527246647
+  },
+  {
+    "": 208,
+    "Constituency_Name": "BANGALORE NORTH",
+    "V1": 1.50899365056099
+  },
+  {
+    "": 209,
+    "Constituency_Name": "BANGALORE CENTRAL",
+    "V1": 1.87620427283873
+  },
+  {
+    "": 210,
+    "Constituency_Name": "BANGALORE SOUTH",
+    "V1": 1.81305973210909
+  },
+  {
+    "": 211,
+    "Constituency_Name": "CHIKBALLAPUR",
+    "V1": 2.18510862814382
+  },
+  {
+    "": 212,
+    "Constituency_Name": "KOLAR",
+    "V1": 2.42723498084699
+  },
+  {
+    "": 213,
+    "Constituency_Name": "KASARAGOD",
+    "V1": 2.91365971714118
+  },
+  {
+    "": 214,
+    "Constituency_Name": "KANNUR",
+    "V1": 3.09656607984851
+  },
+  {
+    "": 215,
+    "Constituency_Name": "VADAKARA",
+    "V1": 3.06451902065448
+  },
+  {
+    "": 216,
+    "Constituency_Name": "WAYANAD",
+    "V1": 2.90039058122969
+  },
+  {
+    "": 217,
+    "Constituency_Name": "KOZHIKODE",
+    "V1": 3.06457085254431
+  },
+  {
+    "": 218,
+    "Constituency_Name": "MALAPPURAM",
+    "V1": 3.02375914101952
+  },
+  {
+    "": 219,
+    "Constituency_Name": "MALAPPURAM , DISTRICT, MALAPPURAM",
+    "V1": 3.02375914101952
+  },
+  {
+    "": 220,
+    "Constituency_Name": "PONNANI",
+    "V1": 3.06896998532337
+  },
+  {
+    "": 221,
+    "Constituency_Name": "PALAKKAD",
+    "V1": 2.99803760322852
+  },
+  {
+    "": 222,
+    "Constituency_Name": "ALATHUR",
+    "V1": 2.97924365581974
+  },
+  {
+    "": 223,
+    "Constituency_Name": "THRISSUR",
+    "V1": 2.84155892629743
+  },
+  {
+    "": 224,
+    "Constituency_Name": "CHALAKUDY",
+    "V1": 3.14977440184546
+  },
+  {
+    "": 225,
+    "Constituency_Name": "ERNAKULAM",
+    "V1": 3.13344666456837
+  },
+  {
+    "": 226,
+    "Constituency_Name": "IDUKKI",
+    "V1": 3.12738115272258
+  },
+  {
+    "": 227,
+    "Constituency_Name": "KOTTAYAM",
+    "V1": 3.1200303065525
+  },
+  {
+    "": 228,
+    "Constituency_Name": "ALAPPUZHA",
+    "V1": 2.85041893333249
+  },
+  {
+    "": 229,
+    "Constituency_Name": "MAVELIKARA",
+    "V1": 2.89287025772192
+  },
+  {
+    "": 230,
+    "Constituency_Name": "PATHANAMTHITTA",
+    "V1": 2.73720792865959
+  },
+  {
+    "": 231,
+    "Constituency_Name": "KOLLAM",
+    "V1": 2.9717577690942
+  },
+  {
+    "": 232,
+    "Constituency_Name": "ATTINGAL",
+    "V1": 2.89580613042373
+  },
+  {
+    "": 233,
+    "Constituency_Name": "THIRUVANANTHAPURAM",
+    "V1": 2.84722977368654
+  },
+  {
+    "": 234,
+    "Constituency_Name": "LAKSHADWEEP",
+    "V1": 72.589359400665
+  },
+  {
+    "": 235,
+    "Constituency_Name": "MORENA",
+    "V1": 2.1285741725048
+  },
+  {
+    "": 236,
+    "Constituency_Name": "BHIND",
+    "V1": 2.26468483636089
+  },
+  {
+    "": 237,
+    "Constituency_Name": "GWALIOR",
+    "V1": 1.93067318783248
+  },
+  {
+    "": 238,
+    "Constituency_Name": "GUNA",
+    "V1": 2.25696104852166
+  },
+  {
+    "": 239,
+    "Constituency_Name": "SAGAR",
+    "V1": 2.38357795256531
+  },
+  {
+    "": 240,
+    "Constituency_Name": "TIKAMGARH",
+    "V1": 2.37026208365302
+  },
+  {
+    "": 241,
+    "Constituency_Name": "DAMOH",
+    "V1": 2.19409983204308
+  },
+  {
+    "": 242,
+    "Constituency_Name": "KHAJURAHO",
+    "V1": 2.12810416523523
+  },
+  {
+    "": 243,
+    "Constituency_Name": "SATNA",
+    "V1": 2.48481432492607
+  },
+  {
+    "": 244,
+    "Constituency_Name": "REWA",
+    "V1": 2.34593217277706
+  },
+  {
+    "": 245,
+    "Constituency_Name": "SIDHI",
+    "V1": 2.08738813673355
+  },
+  {
+    "": 246,
+    "Constituency_Name": "SHAHDOL",
+    "V1": 2.32144065147314
+  },
+  {
+    "": 247,
+    "Constituency_Name": "SHAHDOL(ST) , DISTRICT, ANOOPPUR",
+    "V1": 2.32144065147314
+  },
+  {
+    "": 248,
+    "Constituency_Name": "JABALPUR",
+    "V1": 2.11717780980719
+  },
+  {
+    "": 249,
+    "Constituency_Name": "MANDLA",
+    "V1": 1.98597140793401
+  },
+  {
+    "": 250,
+    "Constituency_Name": "BALAGHAT",
+    "V1": 2.22354717712814
+  },
+  {
+    "": 251,
+    "Constituency_Name": "CHHINDWARA",
+    "V1": 2.58467031564052
+  },
+  {
+    "": 252,
+    "Constituency_Name": "HOSHANGABAD",
+    "V1": 2.31079717843192
+  },
+  {
+    "": 253,
+    "Constituency_Name": "VIDISHA",
+    "V1": 2.21769859838107
+  },
+  {
+    "": 254,
+    "Constituency_Name": "BHOPAL",
+    "V1": 1.85148686339597
+  },
+  {
+    "": 255,
+    "Constituency_Name": "RAJGARH",
+    "V1": 2.29535387649904
+  },
+  {
+    "": 256,
+    "Constituency_Name": "DEWAS",
+    "V1": 2.24091357983466
+  },
+  {
+    "": 257,
+    "Constituency_Name": "UJJAIN",
+    "V1": 2.37551696809072
+  },
+  {
+    "": 258,
+    "Constituency_Name": "MANDSAUR",
+    "V1": 2.22790116048879
+  },
+  {
+    "": 259,
+    "Constituency_Name": "RATLAM",
+    "V1": 2.12842539775023
+  },
+  {
+    "": 260,
+    "Constituency_Name": "RATLAM(ST) JHABUA",
+    "V1": 2.12842539775023
+  },
+  {
+    "": 261,
+    "Constituency_Name": "DHAR",
+    "V1": 2.17197131933344
+  },
+  {
+    "": 262,
+    "Constituency_Name": "INDORE",
+    "V1": 1.71313802325246
+  },
+  {
+    "": 263,
+    "Constituency_Name": "KHARGONE",
+    "V1": 2.12755566932351
+  },
+  {
+    "": 264,
+    "Constituency_Name": "KHANDWA",
+    "V1": 2.05966294516877
+  },
+  {
+    "": 265,
+    "Constituency_Name": "BETUL",
+    "V1": 2.2538475747762
+  },
+  {
+    "": 266,
+    "Constituency_Name": "NANDURBAR",
+    "V1": 2.16612640119837
+  },
+  {
+    "": 267,
+    "Constituency_Name": "DHULE",
+    "V1": 2.16299234734837
+  },
+  {
+    "": 268,
+    "Constituency_Name": "JALGAON",
+    "V1": 2.12170478504001
+  },
+  {
+    "": 269,
+    "Constituency_Name": "RAVER",
+    "V1": 2.27427577321043
+  },
+  {
+    "": 270,
+    "Constituency_Name": "BULDHANA",
+    "V1": 2.27135922177964
+  },
+  {
+    "": 271,
+    "Constituency_Name": "AKOLA",
+    "V1": 2.16651491083274
+  },
+  {
+    "": 272,
+    "Constituency_Name": "AMRAVATI",
+    "V1": 2.24698850836992
+  },
+  {
+    "": 273,
+    "Constituency_Name": "WARDHA",
+    "V1": 2.31619402870598
+  },
+  {
+    "": 274,
+    "Constituency_Name": "RAMTEK",
+    "V1": 2.16054340814158
+  },
+  {
+    "": 275,
+    "Constituency_Name": "NAGPUR",
+    "V1": 1.90647964208453
+  },
+  {
+    "": 276,
+    "Constituency_Name": "BHANDARA - GONDIYA",
+    "V1": 2.18848423651389
+  },
+  {
+    "": 277,
+    "Constituency_Name": "GADCHIROLI-CHIMUR",
+    "V1": 2.46779807373418
+  },
+  {
+    "": 278,
+    "Constituency_Name": "CHANDRAPUR",
+    "V1": 2.06638915657841
+  },
+  {
+    "": 279,
+    "Constituency_Name": "YAVATMAL-WASHIM",
+    "V1": 2.06450322795296
+  },
+  {
+    "": 280,
+    "Constituency_Name": "HINGOLI",
+    "V1": 2.28459192255172
+  },
+  {
+    "": 281,
+    "Constituency_Name": "NANDED",
+    "V1": 2.14800448354738
+  },
+  {
+    "": 282,
+    "Constituency_Name": "PARBHANI",
+    "V1": 2.00899327638663
+  },
+  {
+    "": 283,
+    "Constituency_Name": "JALNA",
+    "V1": 2.2479405181954
+  },
+  {
+    "": 284,
+    "Constituency_Name": "DINDORI",
+    "V1": 2.36817870511721
+  },
+  {
+    "": 285,
+    "Constituency_Name": "NASHIK",
+    "V1": 2.27372638780655
+  },
+  {
+    "": 286,
+    "Constituency_Name": "PALGHAT",
+    "V1": 2.29623818790241
+  },
+  {
+    "": 287,
+    "Constituency_Name": "BHIWANDI",
+    "V1": 2.135942576377
+  },
+  {
+    "": 288,
+    "Constituency_Name": "KALYAN",
+    "V1": 1.88540161100168
+  },
+  {
+    "": 289,
+    "Constituency_Name": "THANE",
+    "V1": 1.74788580832712
+  },
+  {
+    "": 290,
+    "Constituency_Name": "MUMBAI NORTH",
+    "V1": 2.03142942030529
+  },
+  {
+    "": 291,
+    "Constituency_Name": "MUMBAI NORTH WEST",
+    "V1": 2.04110247964421
+  },
+  {
+    "": 292,
+    "Constituency_Name": "MUMBAI NORTH EAST",
+    "V1": 2.17208067577863
+  },
+  {
+    "": 293,
+    "Constituency_Name": "MUMBAI NORTH CENTRAL",
+    "V1": 2.08614321472076
+  },
+  {
+    "": 294,
+    "Constituency_Name": "MUMBAI SOUTH CENTRAL",
+    "V1": 2.50282549869258
+  },
+  {
+    "": 295,
+    "Constituency_Name": "MUMBAI SOUTH",
+    "V1": 2.43888725868934
+  },
+  {
+    "": 296,
+    "Constituency_Name": "RAIGAD",
+    "V1": 2.36420336629956
+  },
+  {
+    "": 297,
+    "Constituency_Name": "MAVAL",
+    "V1": 1.8548036817572
+  },
+  {
+    "": 298,
+    "Constituency_Name": "PUNE",
+    "V1": 1.97392794014713
+  },
+  {
+    "": 299,
+    "Constituency_Name": "BARAMATI",
+    "V1": 1.99818036748857
+  },
+  {
+    "": 300,
+    "Constituency_Name": "SHIRUR",
+    "V1": 1.98661376055856
+  },
+  {
+    "": 301,
+    "Constituency_Name": "AHMEDNAGAR",
+    "V1": 2.12539318066516
+  },
+  {
+    "": 302,
+    "Constituency_Name": "SHIRDI",
+    "V1": 2.47821088761492
+  },
+  {
+    "": 303,
+    "Constituency_Name": "BEED",
+    "V1": 2.0214776766489
+  },
+  {
+    "": 304,
+    "Constituency_Name": "OSMANABAD",
+    "V1": 2.05993340101615
+  },
+  {
+    "": 305,
+    "Constituency_Name": "LATUR",
+    "V1": 2.14813181367397
+  },
+  {
+    "": 306,
+    "Constituency_Name": "SHOLAPUR",
+    "V1": 2.1282216475925
+  },
+  {
+    "": 307,
+    "Constituency_Name": "MADHA",
+    "V1": 2.09793310106627
+  },
+  {
+    "": 308,
+    "Constituency_Name": "SANGLI",
+    "V1": 2.19743533924724
+  },
+  {
+    "": 309,
+    "Constituency_Name": "SATARA",
+    "V1": 2.10686640333303
+  },
+  {
+    "": 310,
+    "Constituency_Name": "RATNAGIRI - SINDHUDURG",
+    "V1": 2.65021698716214
+  },
+  {
+    "": 311,
+    "Constituency_Name": "KOLHAPUR",
+    "V1": 2.06097959782585
+  },
+  {
+    "": 312,
+    "Constituency_Name": "HATKANANGLE",
+    "V1": 2.22237036092147
+  },
+  {
+    "": 313,
+    "Constituency_Name": "INNER MANIPUR",
+    "V1": 4.23658576505799
+  },
+  {
+    "": 314,
+    "Constituency_Name": "OUTER MANIPUR",
+    "V1": 3.94316704188969
+  },
+  {
+    "": 315,
+    "Constituency_Name": "SHILLONG",
+    "V1": 3.69497114423802
+  },
+  {
+    "": 316,
+    "Constituency_Name": "TURA",
+    "V1": 6.17868682235836
+  },
+  {
+    "": 317,
+    "Constituency_Name": "TURA(ST), DISTRICT,WEST GARO HILLS",
+    "V1": 6.17868682235836
+  },
+  {
+    "": 318,
+    "Constituency_Name": "MIZORAM",
+    "V1": 5.16086702650355
+  },
+  {
+    "": 319,
+    "Constituency_Name": "NAGALAND",
+    "V1": 3.06330665476444
+  },
+  {
+    "": 320,
+    "Constituency_Name": "BARGARH",
+    "V1": 2.53286009741969
+  },
+  {
+    "": 321,
+    "Constituency_Name": "SUNDARGARH",
+    "V1": 2.56910584091676
+  },
+  {
+    "": 322,
+    "Constituency_Name": "SAMBALPUR",
+    "V1": 2.79377965273248
+  },
+  {
+    "": 323,
+    "Constituency_Name": "KEONJHAR",
+    "V1": 2.69091241220094
+  },
+  {
+    "": 324,
+    "Constituency_Name": "MAYURBHANJ",
+    "V1": 2.72968426920165
+  },
+  {
+    "": 325,
+    "Constituency_Name": "BALASORE",
+    "V1": 2.65243614123076
+  },
+  {
+    "": 326,
+    "Constituency_Name": "BHADRAK",
+    "V1": 2.46601628583367
+  },
+  {
+    "": 327,
+    "Constituency_Name": "JAJPUR",
+    "V1": 2.77956145928653
+  },
+  {
+    "": 328,
+    "Constituency_Name": "DHENKANAL",
+    "V1": 2.65778003345872
+  },
+  {
+    "": 329,
+    "Constituency_Name": "BOLANGIR",
+    "V1": 2.31845683850226
+  },
+  {
+    "": 330,
+    "Constituency_Name": "KALAHANDI",
+    "V1": 2.45825925034003
+  },
+  {
+    "": 331,
+    "Constituency_Name": "NABARANGPUR",
+    "V1": 2.79353844019087
+  },
+  {
+    "": 332,
+    "Constituency_Name": "KANDHAMAL",
+    "V1": 3.16876500740642
+  },
+  {
+    "": 333,
+    "Constituency_Name": "CUTTACK",
+    "V1": 2.64199554248744
+  },
+  {
+    "": 334,
+    "Constituency_Name": "KENDRAPARA",
+    "V1": 2.32975664826249
+  },
+  {
+    "": 335,
+    "Constituency_Name": "JAGATSINGHPUR",
+    "V1": 2.41639744130887
+  },
+  {
+    "": 336,
+    "Constituency_Name": "PURI",
+    "V1": 2.57999075880992
+  },
+  {
+    "": 337,
+    "Constituency_Name": "BHUBANESWAR",
+    "V1": 2.37196092600447
+  },
+  {
+    "": 338,
+    "Constituency_Name": "ASKA",
+    "V1": 2.57230085605985
+  },
+  {
+    "": 339,
+    "Constituency_Name": "BERHAMPUR",
+    "V1": 2.71595061861635
+  },
+  {
+    "": 340,
+    "Constituency_Name": "KORAPUT",
+    "V1": 2.78660634848132
+  },
+  {
+    "": 341,
+    "Constituency_Name": "PUDUCHERRY",
+    "V1": 4.02038925753059
+  },
+  {
+    "": 342,
+    "Constituency_Name": "GURDASPUR",
+    "V1": 2.41532802297084
+  },
+  {
+    "": 343,
+    "Constituency_Name": "AMRITSAR",
+    "V1": 2.45305572065077
+  },
+  {
+    "": 344,
+    "Constituency_Name": "KHADOOR SAHIB",
+    "V1": 2.31788738583442
+  },
+  {
+    "": 345,
+    "Constituency_Name": "JALANDHAR",
+    "V1": 2.33568353661013
+  },
+  {
+    "": 346,
+    "Constituency_Name": "HOSHIARPUR",
+    "V1": 2.43980351258949
+  },
+  {
+    "": 347,
+    "Constituency_Name": "ANANDPUR SAHIB",
+    "V1": 2.31594386475289
+  },
+  {
+    "": 348,
+    "Constituency_Name": "LUDHIANA",
+    "V1": 2.32116556420346
+  },
+  {
+    "": 349,
+    "Constituency_Name": "FATEHGARH SAHIB",
+    "V1": 2.59407125630925
+  },
+  {
+    "": 350,
+    "Constituency_Name": "FARIDKOT",
+    "V1": 2.49045994192739
+  },
+  {
+    "": 351,
+    "Constituency_Name": "FEROZEPUR",
+    "V1": 2.38077643483294
+  },
+  {
+    "": 352,
+    "Constituency_Name": "BATHINDA",
+    "V1": 2.37581599290364
+  },
+  {
+    "": 353,
+    "Constituency_Name": "SANGRUR",
+    "V1": 2.54348047332045
+  },
+  {
+    "": 354,
+    "Constituency_Name": "PATIALA",
+    "V1": 2.29315187945374
+  },
+  {
+    "": 355,
+    "Constituency_Name": "GANGANAGAR",
+    "V1": 2.10880847106693
+  },
+  {
+    "": 356,
+    "Constituency_Name": "BIKANER",
+    "V1": 2.27575258029773
+  },
+  {
+    "": 357,
+    "Constituency_Name": "CHURU",
+    "V1": 2.06623009707354
+  },
+  {
+    "": 358,
+    "Constituency_Name": "JHUNJHUNU",
+    "V1": 2.13482771418641
+  },
+  {
+    "": 359,
+    "Constituency_Name": "SIKAR",
+    "V1": 2.04748452156697
+  },
+  {
+    "": 360,
+    "Constituency_Name": "JAIPUR RURAL",
+    "V1": 2.13126570672237
+  },
+  {
+    "": 361,
+    "Constituency_Name": "JAIPUR",
+    "V1": 1.85093931004893
+  },
+  {
+    "": 362,
+    "Constituency_Name": "ALWAR",
+    "V1": 2.22805731775249
+  },
+  {
+    "": 363,
+    "Constituency_Name": "BHARATPUR",
+    "V1": 2.14336977769629
+  },
+  {
+    "": 364,
+    "Constituency_Name": "KARAULI-DHOLPUR",
+    "V1": 2.33874207147227
+  },
+  {
+    "": 365,
+    "Constituency_Name": "DAUSA",
+    "V1": 2.37766944426219
+  },
+  {
+    "": 366,
+    "Constituency_Name": "TONK-SAWAI MADHOPUR",
+    "V1": 2.11822478116643
+  },
+  {
+    "": 367,
+    "Constituency_Name": "AJMER",
+    "V1": 2.15284854814553
+  },
+  {
+    "": 368,
+    "Constituency_Name": "NAGAUR",
+    "V1": 2.15874924046561
+  },
+  {
+    "": 369,
+    "Constituency_Name": "PALI",
+    "V1": 1.90516662162858
+  },
+  {
+    "": 370,
+    "Constituency_Name": "JODHPUR",
+    "V1": 2.09736362789249
+  },
+  {
+    "": 371,
+    "Constituency_Name": "BARMER",
+    "V1": 2.1568322389879
+  },
+  {
+    "": 372,
+    "Constituency_Name": "JALORE",
+    "V1": 1.98568194072444
+  },
+  {
+    "": 373,
+    "Constituency_Name": "UDAIPUR",
+    "V1": 1.99335841666942
+  },
+  {
+    "": 374,
+    "Constituency_Name": "BANSWARA",
+    "V1": 2.13385473465533
+  },
+  {
+    "": 375,
+    "Constituency_Name": "CHITTORGARH",
+    "V1": 1.99164278655855
+  },
+  {
+    "": 376,
+    "Constituency_Name": "RAJSAMAND",
+    "V1": 2.13015446797955
+  },
+  {
+    "": 377,
+    "Constituency_Name": "BHILWARA",
+    "V1": 2.06496320875081
+  },
+  {
+    "": 378,
+    "Constituency_Name": "KOTA",
+    "V1": 2.07722842538917
+  },
+  {
+    "": 379,
+    "Constituency_Name": "JHALAWAR-BARAN",
+    "V1": 2.17014643284043
+  },
+  {
+    "": 380,
+    "Constituency_Name": "SIKKIM",
+    "V1": 9.77373034495779
+  },
+  {
+    "": 381,
+    "Constituency_Name": "THIRUVALLUR",
+    "V1": 2.12810416523523
+  },
+  {
+    "": 382,
+    "Constituency_Name": "CHENNAI NORTH",
+    "V1": 2.54768446391712
+  },
+  {
+    "": 383,
+    "Constituency_Name": "CHENNAI SOUTH",
+    "V1": 2.01796103745679
+  },
+  {
+    "": 384,
+    "Constituency_Name": "CHENNAI CENTRAL",
+    "V1": 2.72869149828544
+  },
+  {
+    "": 385,
+    "Constituency_Name": "SRIPERUMBUDUR",
+    "V1": 1.86170070120621
+  },
+  {
+    "": 386,
+    "Constituency_Name": "KANCHEEPURAM",
+    "V1": 2.44831409281526
+  },
+  {
+    "": 387,
+    "Constituency_Name": "ARAKKONAM",
+    "V1": 2.58508517184532
+  },
+  {
+    "": 388,
+    "Constituency_Name": "VELLORE",
+    "V1": 2.76150211200685
+  },
+  {
+    "": 389,
+    "Constituency_Name": "KRISHNAGIRI",
+    "V1": 2.62602820232804
+  },
+  {
+    "": 390,
+    "Constituency_Name": "DHARMAPURI",
+    "V1": 2.6679511408973
+  },
+  {
+    "": 391,
+    "Constituency_Name": "TIRUVANNAMALAI",
+    "V1": 2.67841616123391
+  },
+  {
+    "": 392,
+    "Constituency_Name": "ARANI",
+    "V1": 2.64575502968603
+  },
+  {
+    "": 393,
+    "Constituency_Name": "VILUPPURAM",
+    "V1": 2.6126803974313
+  },
+  {
+    "": 394,
+    "Constituency_Name": "KALLAKURICHI",
+    "V1": 2.56552818798456
+  },
+  {
+    "": 395,
+    "Constituency_Name": "SALEM",
+    "V1": 2.41853105082257
+  },
+  {
+    "": 396,
+    "Constituency_Name": "NAMAKKAL",
+    "V1": 2.72558425695272
+  },
+  {
+    "": 397,
+    "Constituency_Name": "ERODE",
+    "V1": 2.74240104616395
+  },
+  {
+    "": 398,
+    "Constituency_Name": "TIRUPPUR",
+    "V1": 2.63436680578283
+  },
+  {
+    "": 399,
+    "Constituency_Name": "NILGIRIS",
+    "V1": 2.85524983591677
+  },
+  {
+    "": 400,
+    "Constituency_Name": "COIMBATORE",
+    "V1": 2.10659328074707
+  },
+  {
+    "": 401,
+    "Constituency_Name": "POLLACHI",
+    "V1": 2.62308569277708
+  },
+  {
+    "": 402,
+    "Constituency_Name": "DINDIGUL",
+    "V1": 2.58745147376245
+  },
+  {
+    "": 403,
+    "Constituency_Name": "KARUR",
+    "V1": 2.79114580204294
+  },
+  {
+    "": 404,
+    "Constituency_Name": "TIRUCHIRAPPALLI",
+    "V1": 2.61242989171965
+  },
+  {
+    "": 405,
+    "Constituency_Name": "PERAMBALUR",
+    "V1": 2.81881895741675
+  },
+  {
+    "": 406,
+    "Constituency_Name": "CUDDALORE",
+    "V1": 2.90390477503149
+  },
+  {
+    "": 407,
+    "Constituency_Name": "CHIDAMBARAM",
+    "V1": 2.65249050278512
+  },
+  {
+    "": 408,
+    "Constituency_Name": "MAYILADUTURAI",
+    "V1": 2.68366858769564
+  },
+  {
+    "": 409,
+    "Constituency_Name": "NAGAPATTINAM",
+    "V1": 2.99333237515137
+  },
+  {
+    "": 410,
+    "Constituency_Name": "THANJAVUR",
+    "V1": 2.70423193164434
+  },
+  {
+    "": 411,
+    "Constituency_Name": "SIVAGANGA",
+    "V1": 2.56575706275892
+  },
+  {
+    "": 412,
+    "Constituency_Name": "MADURAI",
+    "V1": 2.51402839117157
+  },
+  {
+    "": 413,
+    "Constituency_Name": "THENI",
+    "V1": 2.51425863559476
+  },
+  {
+    "": 414,
+    "Constituency_Name": "VIRUDHUNAGAR",
+    "V1": 2.68331685789285
+  },
+  {
+    "": 415,
+    "Constituency_Name": "RAMANATHAPURAM",
+    "V1": 2.4888982601505
+  },
+  {
+    "": 416,
+    "Constituency_Name": "THOOTHUKKUDI",
+    "V1": 2.76540705704949
+  },
+  {
+    "": 417,
+    "Constituency_Name": "TENKASI",
+    "V1": 2.62199248813926
+  },
+  {
+    "": 418,
+    "Constituency_Name": "TIRUNELVELI",
+    "V1": 2.55119452843671
+  },
+  {
+    "": 419,
+    "Constituency_Name": "KANNIYAKUMARI",
+    "V1": 2.46887578382827
+  },
+  {
+    "": 420,
+    "Constituency_Name": "TRIPURA WEST",
+    "V1": 2.90242089598621
+  },
+  {
+    "": 421,
+    "Constituency_Name": "TRIPURA EAST",
+    "V1": 3.17800778057242
+  },
+  {
+    "": 422,
+    "Constituency_Name": "TEHRI GARHWAL",
+    "V1": 2.67911318380558
+  },
+  {
+    "": 423,
+    "Constituency_Name": "GARHWAL",
+    "V1": 2.85965477131796
+  },
+  {
+    "": 424,
+    "Constituency_Name": "ALMORA",
+    "V1": 2.89085558430079
+  },
+  {
+    "": 425,
+    "Constituency_Name": "NAINITAL-UDHAMSINGH NAGAR",
+    "V1": 2.24967795725259
+  },
+  {
+    "": 426,
+    "Constituency_Name": "HARDWAR",
+    "V1": 2.2057736660107
+  },
+  {
+    "": 427,
+    "Constituency_Name": "SAHARANPUR",
+    "V1": 2.25244385215868
+  },
+  {
+    "": 428,
+    "Constituency_Name": "KAIRANA",
+    "V1": 2.36576842300428
+  },
+  {
+    "": 429,
+    "Constituency_Name": "MUZAFFARNAGAR",
+    "V1": 2.28131132060624
+  },
+  {
+    "": 430,
+    "Constituency_Name": "BIJNOR",
+    "V1": 2.31985793310334
+  },
+  {
+    "": 431,
+    "Constituency_Name": "NAGINA",
+    "V1": 2.42651660384661
+  },
+  {
+    "": 432,
+    "Constituency_Name": "MORADABAD",
+    "V1": 2.04505455745957
+  },
+  {
+    "": 433,
+    "Constituency_Name": "RAMPUR",
+    "V1": 2.24110621581573
+  },
+  {
+    "": 434,
+    "Constituency_Name": "SAMBHAL",
+    "V1": 2.14017477848537
+  },
+  {
+    "": 435,
+    "Constituency_Name": "AMROHA",
+    "V1": 2.34665224753844
+  },
+  {
+    "": 436,
+    "Constituency_Name": "MEERUT",
+    "V1": 2.05386003532103
+  },
+  {
+    "": 437,
+    "Constituency_Name": "BAGHPAT",
+    "V1": 2.40756456890395
+  },
+  {
+    "": 438,
+    "Constituency_Name": "GHAZIABAD",
+    "V1": 1.53710478619145
+  },
+  {
+    "": 439,
+    "Constituency_Name": "GAUTAM BUDDH NAGAR",
+    "V1": 1.82457558975867
+  },
+  {
+    "": 440,
+    "Constituency_Name": "BULANDSHAHR",
+    "V1": 2.08692171781741
+  },
+  {
+    "": 441,
+    "Constituency_Name": "ALIGARH",
+    "V1": 2.02094331352063
+  },
+  {
+    "": 442,
+    "Constituency_Name": "HATHRAS",
+    "V1": 2.06023672386631
+  },
+  {
+    "": 443,
+    "Constituency_Name": "MATHURA",
+    "V1": 2.15412956380108
+  },
+  {
+    "": 444,
+    "Constituency_Name": "AGRA",
+    "V1": 1.99687448167478
+  },
+  {
+    "": 445,
+    "Constituency_Name": "FATEHPUR SIKRI",
+    "V1": 2.29270357374689
+  },
+  {
+    "": 446,
+    "Constituency_Name": "FIROZABAD",
+    "V1": 2.21404158759679
+  },
+  {
+    "": 447,
+    "Constituency_Name": "MAINPURI",
+    "V1": 2.19218321438207
+  },
+  {
+    "": 448,
+    "Constituency_Name": "MAINPURI(GEN)",
+    "V1": 2.19218321438207
+  },
+  {
+    "": 449,
+    "Constituency_Name": "ETAH",
+    "V1": 2.29724550336396
+  },
+  {
+    "": 450,
+    "Constituency_Name": "BADAUN",
+    "V1": 2.04833747375144
+  },
+  {
+    "": 451,
+    "Constituency_Name": "AONLA",
+    "V1": 2.19149516472471
+  },
+  {
+    "": 452,
+    "Constituency_Name": "BAREILLY",
+    "V1": 2.17766202486538
+  },
+  {
+    "": 453,
+    "Constituency_Name": "PILIBHIT",
+    "V1": 2.16844527793369
+  },
+  {
+    "": 454,
+    "Constituency_Name": "SHAHJAHANPUR",
+    "V1": 1.8308578715441
+  },
+  {
+    "": 455,
+    "Constituency_Name": "KHERI",
+    "V1": 2.15771322551335
+  },
+  {
+    "": 456,
+    "Constituency_Name": "DHAURAHRA",
+    "V1": 2.32587332425783
+  },
+  {
+    "": 457,
+    "Constituency_Name": "SITAPUR",
+    "V1": 2.33754272662122
+  },
+  {
+    "": 458,
+    "Constituency_Name": "HARDOI",
+    "V1": 2.1137607122775
+  },
+  {
+    "": 459,
+    "Constituency_Name": "MISRIKH",
+    "V1": 2.10004004429792
+  },
+  {
+    "": 460,
+    "Constituency_Name": "UNNAO",
+    "V1": 1.67428358633741
+  },
+  {
+    "": 461,
+    "Constituency_Name": "MOHANLALGANJ",
+    "V1": 1.97139474941165
+  },
+  {
+    "": 462,
+    "Constituency_Name": "LUCKNOW",
+    "V1": 1.85840398450016
+  },
+  {
+    "": 463,
+    "Constituency_Name": "RAE BARELI",
+    "V1": 2.27204420942548
+  },
+  {
+    "": 464,
+    "Constituency_Name": "AMETHI",
+    "V1": 2.17014773245149
+  },
+  {
+    "": 465,
+    "Constituency_Name": "SULTANPUR",
+    "V1": 2.12702368612278
+  },
+  {
+    "": 466,
+    "Constituency_Name": "PRATAPGARH",
+    "V1": 2.11129029814833
+  },
+  {
+    "": 467,
+    "Constituency_Name": "FARRUKHABAD",
+    "V1": 2.24553765349821
+  },
+  {
+    "": 468,
+    "Constituency_Name": "ETAWAH",
+    "V1": 2.12261449347689
+  },
+  {
+    "": 469,
+    "Constituency_Name": "KANNAUJ",
+    "V1": 2.00333575471312
+  },
+  {
+    "": 470,
+    "Constituency_Name": "KANPUR",
+    "V1": 2.2490678033425
+  },
+  {
+    "": 471,
+    "Constituency_Name": "AKBARPUR",
+    "V1": 2.04892812818925
+  },
+  {
+    "": 472,
+    "Constituency_Name": "JALAUN",
+    "V1": 1.92021360870586
+  },
+  {
+    "": 473,
+    "Constituency_Name": "JHANSI",
+    "V1": 1.87562550076292
+  },
+  {
+    "": 474,
+    "Constituency_Name": "BANDA",
+    "V1": 2.26225594701143
+  },
+  {
+    "": 475,
+    "Constituency_Name": "FATEHPUR",
+    "V1": 2.00792352194455
+  },
+  {
+    "": 476,
+    "Constituency_Name": "KAUSHAMBI",
+    "V1": 2.08443327011824
+  },
+  {
+    "": 477,
+    "Constituency_Name": "PHULPUR",
+    "V1": 1.89403300623277
+  },
+  {
+    "": 478,
+    "Constituency_Name": "ALLAHABAD",
+    "V1": 2.1744110204858
+  },
+  {
+    "": 479,
+    "Constituency_Name": "BARA BANKI",
+    "V1": 2.10529966687543
+  },
+  {
+    "": 480,
+    "Constituency_Name": "FAIZABAD",
+    "V1": 2.08420309184845
+  },
+  {
+    "": 481,
+    "Constituency_Name": "AMBEDKAR NAGAR",
+    "V1": 2.10836677771481
+  },
+  {
+    "": 482,
+    "Constituency_Name": "BAHRAICH",
+    "V1": 2.21147170824586
+  },
+  {
+    "": 483,
+    "Constituency_Name": "KAISERGANJ",
+    "V1": 2.11674991398783
+  },
+  {
+    "": 484,
+    "Constituency_Name": "SHRAWASTI",
+    "V1": 2.02664645877142
+  },
+  {
+    "": 485,
+    "Constituency_Name": "GONDA",
+    "V1": 2.11816287463651
+  },
+  {
+    "": 486,
+    "Constituency_Name": "DOMARIAGANJ",
+    "V1": 2.05732663795869
+  },
+  {
+    "": 487,
+    "Constituency_Name": "BASTI",
+    "V1": 2.02733127605629
+  },
+  {
+    "": 488,
+    "Constituency_Name": "SANT KABIR NAGAR",
+    "V1": 1.90294462838343
+  },
+  {
+    "": 489,
+    "Constituency_Name": "GORAKHPUR",
+    "V1": 1.90327144918981
+  },
+  {
+    "": 490,
+    "Constituency_Name": "KUSHI NAGAR",
+    "V1": 2.15575445927167
+  },
+  {
+    "": 491,
+    "Constituency_Name": "DEORIA",
+    "V1": 2.00550880334889
+  },
+  {
+    "": 492,
+    "Constituency_Name": "BANSGAON",
+    "V1": 2.05887539841713
+  },
+  {
+    "": 493,
+    "Constituency_Name": "LALGANJ",
+    "V1": 2.18108422059983
+  },
+  {
+    "": 494,
+    "Constituency_Name": "AZAMGARH",
+    "V1": 2.12774430002331
+  },
+  {
+    "": 495,
+    "Constituency_Name": "GHOSI",
+    "V1": 1.91623023913972
+  },
+  {
+    "": 496,
+    "Constituency_Name": "SALEMPUR",
+    "V1": 2.1807337743578
+  },
+  {
+    "": 497,
+    "Constituency_Name": "BALLIA",
+    "V1": 2.04934990168362
+  },
+  {
+    "": 498,
+    "Constituency_Name": "JAUNPUR",
+    "V1": 1.96004093373041
+  },
+  {
+    "": 499,
+    "Constituency_Name": "MACHHLISHAHR",
+    "V1": 1.91536224959288
+  },
+  {
+    "": 500,
+    "Constituency_Name": "GHAZIPUR",
+    "V1": 2.01152804938499
+  },
+  {
+    "": 501,
+    "Constituency_Name": "CHANDAULI",
+    "V1": 2.27464122581103
+  },
+  {
+    "": 502,
+    "Constituency_Name": "VARANASI",
+    "V1": 2.05141956889578
+  },
+  {
+    "": 503,
+    "Constituency_Name": "BHADOHI",
+    "V1": 1.97525888505275
+  },
+  {
+    "": 504,
+    "Constituency_Name": "MIRZAPUR",
+    "V1": 2.10605459181094
+  },
+  {
+    "": 505,
+    "Constituency_Name": "ROBERTSGANJ",
+    "V1": 2.21088614669014
+  },
+  {
+    "": 506,
+    "Constituency_Name": "COOCH BEHAR",
+    "V1": 2.24606375468497
+  },
+  {
+    "": 507,
+    "Constituency_Name": "COOCHBEHAR(SC), DISTRICT, COOCHBEHAR",
+    "V1": 2.24606375468497
+  },
+  {
+    "": 508,
+    "Constituency_Name": "ALIPURDUARS",
+    "V1": 2.46364735867772
+  },
+  {
+    "": 509,
+    "Constituency_Name": "JALPAIGURI",
+    "V1": 2.36622876466974
+  },
+  {
+    "": 510,
+    "Constituency_Name": "DARJEELING",
+    "V1": 2.52151543954232
+  },
+  {
+    "": 511,
+    "Constituency_Name": "RAIGANJ",
+    "V1": 2.61170313204942
+  },
+  {
+    "": 512,
+    "Constituency_Name": "BALURGHAT",
+    "V1": 2.88865258346572
+  },
+  {
+    "": 513,
+    "Constituency_Name": "MALDAHA UTTAR",
+    "V1": 2.54225818491008
+  },
+  {
+    "": 514,
+    "Constituency_Name": "MALDAHA DAKSHIN",
+    "V1": 2.68999356415763
+  },
+  {
+    "": 515,
+    "Constituency_Name": "JANGIPUR",
+    "V1": 2.60395241352748
+  },
+  {
+    "": 516,
+    "Constituency_Name": "BAHARAMPUR",
+    "V1": 2.49267325316089
+  },
+  {
+    "": 517,
+    "Constituency_Name": "MURSHIDABAD",
+    "V1": 2.39654175853681
+  },
+  {
+    "": 518,
+    "Constituency_Name": "KRISHNANAGAR",
+    "V1": 2.45385137829999
+  },
+  {
+    "": 519,
+    "Constituency_Name": "RANAGHAT",
+    "V1": 2.26085301859377
+  },
+  {
+    "": 520,
+    "Constituency_Name": "BANGAON",
+    "V1": 2.35203181903443
+  },
+  {
+    "": 521,
+    "Constituency_Name": "BARRACKPORE",
+    "V1": 2.81521446960975
+  },
+  {
+    "": 522,
+    "Constituency_Name": "DUM DUM",
+    "V1": 2.57742174325258
+  },
+  {
+    "": 523,
+    "Constituency_Name": "BARASAT",
+    "V1": 2.39544233443857
+  },
+  {
+    "": 524,
+    "Constituency_Name": "BASIRHAT",
+    "V1": 2.43111211891082
+  },
+  {
+    "": 525,
+    "Constituency_Name": "JOYNAGAR",
+    "V1": 2.48423005311491
+  },
+  {
+    "": 526,
+    "Constituency_Name": "MATHURAPUR",
+    "V1": 2.43406939215535
+  },
+  {
+    "": 527,
+    "Constituency_Name": "DIAMOND HARBOUR",
+    "V1": 2.32905289109809
+  },
+  {
+    "": 528,
+    "Constituency_Name": "JADAVPUR",
+    "V1": 2.27091654937565
+  },
+  {
+    "": 529,
+    "Constituency_Name": "KOLKATA DAKSHIN",
+    "V1": 2.1502489770343
+  },
+  {
+    "": 530,
+    "Constituency_Name": "KOLKATA UTTAR",
+    "V1": 2.52708780077895
+  },
+  {
+    "": 531,
+    "Constituency_Name": "HOWRAH",
+    "V1": 2.40768613891844
+  },
+  {
+    "": 532,
+    "Constituency_Name": "ULUBERIA",
+    "V1": 2.5015366221373
+  },
+  {
+    "": 533,
+    "Constituency_Name": "SRERAMPUR",
+    "V1": 2.23135542394944
+  },
+  {
+    "": 534,
+    "Constituency_Name": "HOOGHLY",
+    "V1": 2.22313658175679
+  },
+  {
+    "": 535,
+    "Constituency_Name": "ARAMBAGH",
+    "V1": 2.26446407001718
+  },
+  {
+    "": 536,
+    "Constituency_Name": "TAMLUK",
+    "V1": 2.37272969534589
+  },
+  {
+    "": 537,
+    "Constituency_Name": "TAMLUK(GEN), DISTRICT, PURBA MEDINIPUR",
+    "V1": 2.37272969534589
+  },
+  {
+    "": 538,
+    "Constituency_Name": "KANTHI",
+    "V1": 2.43141714791041
+  },
+  {
+    "": 539,
+    "Constituency_Name": "GHATAL",
+    "V1": 2.25012775622808
+  },
+  {
+    "": 540,
+    "Constituency_Name": "JHARGRAM",
+    "V1": 2.45663108970709
+  },
+  {
+    "": 541,
+    "Constituency_Name": "MEDINIPUR",
+    "V1": 2.41639744130887
+  },
+  {
+    "": 542,
+    "Constituency_Name": "PURULIA",
+    "V1": 2.46193678652493
+  },
+  {
+    "": 543,
+    "Constituency_Name": "BANKURA",
+    "V1": 2.40974669706054
+  },
+  {
+    "": 544,
+    "Constituency_Name": "BISHNUPUR",
+    "V1": 2.47034843730508
+  },
+  {
+    "": 545,
+    "Constituency_Name": "BARDHAMAN PURBA",
+    "V1": 2.36503194008265
+  },
+  {
+    "": 546,
+    "Constituency_Name": "BURDWAN - DURGAPUR",
+    "V1": 2.28848591249104
+  },
+  {
+    "": 547,
+    "Constituency_Name": "ASANSOL",
+    "V1": 2.4657041921937
+  },
+  {
+    "": 548,
+    "Constituency_Name": "BOLPUR",
+    "V1": 2.35553596837277
+  },
+  {
+    "": 549,
+    "Constituency_Name": "BIRBHUM",
+    "V1": 2.42380620819229
+  }
+]
