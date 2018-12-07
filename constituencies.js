@@ -33,5 +33,5 @@ $('#cform').on('submit', function(e) {
 
     console.log(v1, v2, v1/v2);
 
-    $('div#answer').html(c1 + ' is<b> '+ v1/v2+ ' </b>times that of a vote in '+ c2);
+    $('div#answer').html(c1 + ' is<b> '+ (v1/v2).toFixed(2)+ ' </b>times that of a vote in '+ c2);
 });
