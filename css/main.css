@@ -2879,7 +2879,7 @@ html.no-csstransitions .home-content__main {
   padding-top: 4.2rem;
   padding-bottom: 4.2rem;
   background-color: #050505;
-  background-image: url(../images/stats-bg.jpg);
+  background-image: url(../images/parliament.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2934,7 +2934,7 @@ html.no-csstransitions .home-content__main {
   font-family: "metropolis-regular", sans-serif;
   font-size: 1.8rem;
   line-height: 1.333;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgb(255, 255, 255);
   margin-top: 1.8rem;
   position: relative;
 }
